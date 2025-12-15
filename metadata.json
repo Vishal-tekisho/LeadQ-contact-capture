@@ -1,0 +1,7 @@
+{
+  "name": "LeadQ.AI Contact Intake",
+  "description": "High-fidelity prototype for LeadQ.AI contact intake flow including camera simulation and database search.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
